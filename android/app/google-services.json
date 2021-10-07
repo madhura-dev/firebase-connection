@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446387578203",
+    "project_id": "fir-connect-bf50d",
+    "storage_bucket": "fir-connect-bf50d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446387578203:android:d7af8f5080b2d8c854e67e",
+        "android_client_info": {
+          "package_name": "flutterapp.firebaseconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446387578203-pgmd5hfb73vnab4p9htiemt8vi15asrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL-hXxzMqZwl2M6BQB7Sx1EXsYswsdf4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446387578203-pgmd5hfb73vnab4p9htiemt8vi15asrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
