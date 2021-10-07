@@ -61,9 +61,10 @@ class Home extends StatelessWidget {
                               children: [
 
                                 Image.network(snapshot.data.docs[index]['image']),
-                                Text(snapshot.data.docs[index]['name'],style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),),
                                 SizedBox(height: 20,),
-                                Text(snapshot.data.docs[index]['food place'],style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),),
+                                Text(snapshot.data.docs[index]['name'],style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),),
+
+
 
                               ],
                             ),
